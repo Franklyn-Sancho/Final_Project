@@ -12,9 +12,10 @@
 ## Tecnologias usadas nesse projeto. 
 
 ![Badge](https://img.shields.io/static/v1?label=Javascript&message=Language&color=yellow&style=for-the-badge&logo=JAVASCRIPT)
-![Badge](https://img.shields.io/static/v1?label=vue&message=framework&color=green&style=for-the-badge&logo=Vue)
+![Badge](https://img.shields.io/static/v1?label=node.js&message=Built&color=Green&style=for-the-badge&logo=Node.js)
+![Badge](https://img.shields.io/static/v1?label=vue&message=framework&color=green&style=for-the-badge&logo=Vue.js)
 ![Badge](https://img.shields.io/static/v1?label=postgreSQL&message=database&color=grey&style=for-the-badge&logo=POSTGRESQL)
-![Badge](https://img.shields.io/static/v1?label=axios&message=framework&color=purple&style=for-the-badge&logo=AXIOS)
+![Badge](https://img.shields.io/static/v1?label=axios&message=framework&color=purple&style=for-the-badge&logo=axios)
 ![Badge](https://img.shields.io/static/v1?label=bootstrap&message=framework&color=blue&style=for-the-badge&logo=BOOTSTRAP)
 ![Badge](https://img.shields.io/static/v1?label=mongodb&message=database&color=green&style=for-the-badge&logo=MONGODB)
 ![Badge](https://img.shields.io/static/v1?label=express&message=framework&color=grey&style=for-the-badge&logo=EXPRESS)
